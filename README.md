@@ -13,10 +13,20 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=phong-nt-990.phong-nt-990)
 
 <br />
-
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  ### - Learning :
+- ? CyberSec
+- ? Machine Learning
+- ? C++
+- ? Python
+- ? SQL
+
+### - Hobbies : 
+- ? League of Legends
+- ? Watching Anime
+- ? Listening to Music
+
 - ?? any freelance work? do reach, [email](mailto:nguyenthephong508@gmail.com) :)
 - ?? ask me about anything, i am happy to help;
 
