@@ -15,7 +15,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="120" />
   
 - ?? any freelance work? do reach, [email](mailto:nguyenthephong508@gmail.com) :)
 - ?? ask me about anything, i am happy to help;
