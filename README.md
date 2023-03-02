@@ -4,7 +4,7 @@
   <img align="left" alt="Phong's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Phong's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Phong's Facebook" width="22px" src="https://gist.githubusercontent.com/electricg/19b1bb4e8044dec8d1d3/raw/c6c274b3f0cbcf00b2f6ad4ff9ceae9d4fc26d30/facebook.svg" />
 </a>
 <a href="edin.com/in/phong-nguyen-9a9b04250/">
   <img align="left" alt="Phong's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
