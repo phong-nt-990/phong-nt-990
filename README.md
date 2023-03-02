@@ -16,19 +16,16 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   ### - Learning :
-- ? CyberSec
-- ? Machine Learning
-- ? C++
-- ? Python
-- ? SQL
+- CyberSec
+- Machine Learning
+- C++
+- Python
+- SQL
 
 ### - Hobbies : 
-- ? League of Legends
-- ? Watching Anime
-- ? Listening to Music
-
-- ?? any freelance work? do reach, [email](mailto:nguyenthephong508@gmail.com) :)
-- ?? ask me about anything, i am happy to help;
+- League of Legends
+- Watching Anime
+- Listening to Music
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
