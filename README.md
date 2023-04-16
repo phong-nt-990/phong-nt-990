@@ -37,6 +37,6 @@
 
 # my github stats
 
-![Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phong-nt-990&show_icons=true&theme=transparent)
+![Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phong-nt-990&show_icons=true&theme=onedark)
 
 
