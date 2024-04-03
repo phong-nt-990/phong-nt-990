@@ -46,6 +46,12 @@
 # Hi there, iamthephong （＾－＾✿）
 ![random image](https://i.imgur.com/g63bqGH.jpg)
 ```
+ ______
+< Lmao >
+ ------
+    \
+     \
+      \
                     ##        .
               ## ## ##       ==
            ## ## ## ##      ===
