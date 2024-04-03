@@ -45,7 +45,14 @@
 
 # Hi there, iamthephong （＾－＾✿）
 ![random image](https://i.imgur.com/g63bqGH.jpg)
-
+                    ##        .
+              ## ## ##       ==
+           ## ## ## ##      ===
+       /""""""""""""""""___/ ===
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~
+       \______ o          __/
+        \    \        __/
+          \____\______/
 ### About me:
 - I'm currently learning AI/ML in HCMUS 🐳
 
